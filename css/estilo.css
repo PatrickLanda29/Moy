@@ -1,0 +1,42 @@
+h1{
+	color:black;
+	font-family: 'Lato', sans-serif;
+	
+}
+
+.clear{
+	clear:both;
+	}
+
+#menu ul {
+	list-style: none;
+	margin:0:
+	padding:2px;
+	
+}
+#menu ul li {
+	float:left;
+	padding: 20px;
+	background: black;
+}
+#menu ul li:hover{
+	background:#f4f4f4;
+}
+#menu ul li:hover a{
+	color:black;
+}
+#menu ul li a{
+	color:white;
+	text-decoration:none;
+}
+
+table {
+   width: 100%;
+   border: 1px solid #000;
+}
+th, td {
+   width: 25%;
+   text-align: left;
+   vertical-align: top;
+   border: 1px solid #000;
+}
